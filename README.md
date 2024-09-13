@@ -1,3 +1,3 @@
 # expense_tracker_app
 
-A new Flutter project.
+Still working as secondary job
